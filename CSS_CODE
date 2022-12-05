@@ -5,29 +5,24 @@ color: #666666;
 font-family: Verdana, Arial, sans-serif;
 #wrapper {
 margin-left: auto;
-}
-header {
 margin-right: auto;
 width: 80%;
 }
-h1 {
-h2 {
-}
-nav {
+header {
 background-color: #002171; color: #FFFFFF;
 font-family: Georgia, serif;
-line-height: 200%; }
-color: #197602;
+}
+h1 {line-height: 200%}
+h2{color: #197602;
 font-family: Georgia, serif;
-background-color: #BBDEFB;
+}
+nav{ background-color: #BBDEFB;
 font-weight: bold;
 }
-dt {
-color: #002171;
+dt { color: #002171;
 font-weight: bold;
 }
-.resort {
-color: #197602;
+.resort { color: #197602;
 font-size: 1.2em;
 }
 footer {
